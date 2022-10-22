@@ -1,0 +1,9 @@
+.pool {
+  margin-top: 15px;
+  width: 100%;
+  min-height: 500px;
+  background-color:rgb(227, 234, 234);
+  border: 2px;
+  border-radius: 15px;
+}
+
